@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: #000000;
+}
+
+h1 {
+    font-size: 100;
+    font-family: bubble;
+    color: #ff44dd;
+}
+
+h3 {
+    font-size: 30;
+    color: #ffffff;
+    opacity: 1;
+}
+
+img{
+    width: 500;
+    opacity: 1;
+}
+
+@font-face {
+  font-family: bubble;
+  src: url(bubble.ttf);
+}
